@@ -8,3 +8,23 @@ You can refer [towardsdatascience](https://towardsdatascience.com/what-is-featur
 Note-
 Refer kaggle for missing datasets
 Eg- for [creditcard dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud?select=creditcard.csv)
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install packages.
+
+```bash
+pip install scikit-learn
+```
+
+```bash
+pip install pandas
+```
+
+```bash
+pip install numpy
+```
+
+```bash
+pip install matplotlib
+```
