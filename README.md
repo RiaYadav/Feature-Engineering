@@ -28,3 +28,20 @@ pip install numpy
 ```bash
 pip install matplotlib
 ```
+
+## Usage
+
+```python
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+#reads the given csv file
+csvData = pd.read_csv("xyz.csv")
+
+#generates an array of given parameters 
+a = np.arange(15).reshape(3, 5)
+
+
+
+```
